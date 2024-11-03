@@ -1,0 +1,14 @@
+course url:
+
+   https://www.youtube.com/watch?v=gb7gMluAeao&list=PLcvhF2Wqh7DNVy1OCUpG3i5lyxyBWhGZ8
+
+
+git repo:
+
+   https://github.com/sergeybabann/react-way-of-samurai_1.0_social_network_01-original.babann/tree/develop
+
+----- lessons complete -----
+19 lesson: complete
+
+-- video 20 --
+time stop:
