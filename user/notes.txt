@@ -21,4 +21,13 @@ npm i react-router-dom -save
 
 
 
+----- Git commands -----
+gitk --all - открыть gui git
+
+
+
+----- Save and Push -----
+git add .
+git commit -m ' '
+git push -u origin develop
 

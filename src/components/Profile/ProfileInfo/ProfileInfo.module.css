@@ -1,0 +1,10 @@
+.beach img {
+  max-width: 100%;
+  max-height: 400px; /* Укажите нужное ограничение по высоте */
+  width: auto;
+  height: auto;
+}
+
+.descriptionBlock {
+  padding: 10px;
+}
